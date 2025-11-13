@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Ssnakyx
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Dev stuff
-- ⚡ Fun fact: im 19
+# 👋 Hi, I'm [Ssnakyx]
+---
 
-<!---
-Ssnakyx/Ssnakyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech
+`Go` · `JavaScript` · `React` · `Node.js` · `HTML` · `CSS` · `Symphony`
+
+---
+
+### 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&hide_border=true)
+
+---
+
+### 🌐 Links
+[GitHub](https://github.com/Ssnakyx) · [LinkedIn](https://www.linkedin.com/in/hamed-kaffa-98587032a/) · [Website](portfoliohamed.netlify.app)
+
+---
+
+> “Less, but better.”
