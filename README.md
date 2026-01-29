@@ -2,7 +2,7 @@
 ---
 
 ### 🛠️ Tech
-`Go` · `JavaScript` · `React` · `Node.js` · `HTML` · `CSS` · `Symphony`
+`Go` · `JavaScript` · `React` · `Node.js` · `HTML` · `CSS` · `Symphony`, `NextJS`
 
 ---
 
