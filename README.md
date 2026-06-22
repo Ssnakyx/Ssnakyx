@@ -108,9 +108,8 @@
 
 <div align="center">
 
-### 📧 DM me, email me, carrier pigeon me — LET'S BUILD SOMETHING COOL! 🚀
+### 📧 DM me, email me — LET'S BUILD SOMETHING COOL! 🚀
 
-> *"Less, but better."* — Dieter Rams (and also my code philosophy 😅)
 
 </div>
 
@@ -118,6 +117,6 @@
 
 <div align="center">
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif) **Made with ❤️ & way too much coffee**
+![Wave](https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif) 
 
 </div>
